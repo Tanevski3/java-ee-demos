@@ -1,6 +1,3 @@
-# java-ee-demos
-Showcase of various java ee technologies
-
 # Java EE demos
 > **Java EE demos** is a showcase of various java ee technologies
  
